@@ -1,4 +1,12 @@
-## Olá eu sou o Guilherme Seja Bem vindo
+## Olá meu nome é Guilherme sou estudante de programação: Seja Bem vindo 😄
+🔴Profissional:
+🔵Sou apaixonado por programação desde 2010,
+🔵Hoje me considero um desenvolvedor Full-Stack,
+🔵Estou buscando minha primeira oportunidade no mercado de tecnologia.
+
+🔴Hobbies favoritos:
+🔵Video game (viciado em fortnite),
+🔵Futebol ,
 
 <div align="center">
   <a href="https://github.com/Guilherme-Buasquevicz">
