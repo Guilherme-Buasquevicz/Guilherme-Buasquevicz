@@ -6,7 +6,8 @@
 
 🔴Hobbies favoritos:
 🔵Video game,
-🔵Futebol ,
+🔵Futebol,
+🔵E-sports.
 
 <div align="center">
   <a href="https://github.com/Guilherme-Buasquevicz">
