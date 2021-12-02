@@ -5,7 +5,7 @@
 🔵Estou buscando minha primeira oportunidade no mercado de tecnologia.
 
 🔴Hobbies favoritos:
-🔵Video game (viciado em fortnite),
+🔵Video game,
 🔵Futebol ,
 
 <div align="center">
