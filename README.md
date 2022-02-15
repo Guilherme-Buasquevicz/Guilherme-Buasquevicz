@@ -1,7 +1,7 @@
-## Olá meu nome é Guilherme sou estudante de programação: Seja Bem vindo 😄
+## System.out.Println("Seja bem vindo) 😄
 🔴Profissional:
 🔵Sou apaixonado por programação desde 2010,
-🔵Hoje me considero um desenvolvedor Full-Stack,
+🔵Apaixonado pela linguagem java,
 🔵Estou buscando minha primeira oportunidade no mercado de tecnologia.
 
 🔴Hobbies favoritos:
